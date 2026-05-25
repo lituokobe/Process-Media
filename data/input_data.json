@@ -1,0 +1,305 @@
+[
+	{
+		"org_id": 1,
+		"version": "1.6",
+		"footage_regular": [
+			{
+                "material_id": 320,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/33390321.mp4",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 321,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/8849375.mp4",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 322,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/33684356.mp4",
+                "industry_id":0,
+                "status":1
+            },
+			{
+                "material_id": 323,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/6377571.mp4",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 324,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/35715727.mp4",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 325,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/29996514.mp4",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 326,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/6217343.mp4",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 327,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/991400.mp4",
+                "industry_id":0,
+                "status":1
+            },
+			{
+                "material_id": 328,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/30815459.mp4",
+                "industry_id":0,
+                "status":1
+            },
+			{
+                "material_id": 329,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/31319337.mp4",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 330,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/8490544.mp4",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 331,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/5405662.mp4",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 331,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/34143373.mp4",
+                "industry_id":1,
+                "status":1
+            }
+		],
+		"footage_opening": [
+			{
+				"material_id": 356,
+				"material_path": "https://www.pexels.com/zh-cn/download/video/13929678.mp4",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+                "material_id": 4,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/33749020.mp4",
+                "industry_id":1,
+                "status":1
+            },
+			{
+				"material_id": 203,
+				"material_path": "https://www.pexels.com/zh-cn/download/video/35878194.mp4",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+				"material_id": 204,
+				"material_path": "https://www.pexels.com/zh-cn/download/video/31229030.mp4",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+				"material_id": 205,
+				"material_path": "https://www.pexels.com/zh-cn/download/video/4554067.mp4",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+				"material_id": 206,
+				"material_path": "https://www.pexels.com/zh-cn/download/video/7857973.mp4",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+				"material_id": 207,
+				"material_path": "https://www.pexels.com/zh-cn/download/video/6730710.mp4",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+				"material_id": 208,
+				"material_path": "https://www.pexels.com/zh-cn/download/video/4965417.mp4",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+				"material_id": 209,
+				"material_path": "https://www.pexels.com/zh-cn/download/video/33501612.mp4",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+				"material_id": 210,
+				"material_path": "https://www.pexels.com/zh-cn/download/video/11760019.mp4",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+				"material_id": 211,
+				"material_path": "https://www.pexels.com/zh-cn/download/video/36033073.mp4",
+				"industry_id": 0,
+				"status": 1
+			}
+		],
+		"image": [
+			{
+				"material_id": 145,
+				"material_path": "https://xiuxiu-pro.meitudata.com/posters/b5ff9c7bdcd0800d735bb9cf27cf82a6.jpg",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+				"material_id": 29,
+				"material_path": "https://xiuxiu-pro.meitudata.com/posters/c00836e1d5d8e6c7e52757f9199cfc40.jpg",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+                "material_id": 5,
+                "material_path": "https://imgs.design006.com/202204/Design006_8QGaeTCrEK.jpg",
+                "industry_id":0,
+                "status":1
+            },
+			{
+                "material_id": 146,
+                "material_path": "https://xiuxiu-pro.meitudata.com/poster/1dff2690ca18d662a37657857010955f.jpg",
+                "industry_id":0,
+                "status":1
+            },
+			{
+                "material_id": 147,
+                "material_path": "https://xiuxiu-pro.meitudata.com/poster/3ab8ceae1d9d95ba2f0387151475fd6b.jpg?",
+                "industry_id":0,
+                "status":1
+            },
+			{
+                "material_id": 148,
+                "material_path": "https://xiuxiu-pro.meitudata.com/posters/63226e2880186c865c0e9c81b44b409d.jpg",
+                "industry_id":0,
+                "status":1
+            },
+			{
+                "material_id": 149,
+                "material_path": "https://xiuxiu-pro.meitudata.com/posters/65a1fbd34890029dfb0b6ab4031a1e7a.jpeg",
+                "industry_id":0,
+                "status":1
+            },
+			{
+                "material_id": 150,
+                "material_path": "https://xiuxiu-pro-new.meitudata.com/poster/f63c843f3853f60269c963186c4b533f.jpg",
+                "industry_id":0,
+                "status":1
+            },
+			{
+                "material_id": 151,
+                "material_path": "https://xiuxiu-pro.meitudata.com/designer/cce8416c2d3ed5a1b62247a60cb47f5f.jpeg",
+                "industry_id":0,
+                "status":1
+            },
+			{
+                "material_id": 152,
+                "material_path": "https://xiuxiu-pro.meitudata.com/posters/3eb50419b73499bf738eef9a3d3b25c9.jpeg",
+                "industry_id":0,
+                "status":1
+            },
+			{
+                "material_id": 153,
+                "material_path": "https://xiuxiu-pro.meitudata.com/posters/d708ecd87c7a32f4309144b2f57a4a97.jpeg",
+                "industry_id":0,
+                "status":1
+            }
+		],
+		"bgm": [
+			{
+				"material_id": 400,
+				"material_path": "https://freepd.cn/api/music/486f72726f722f4372656570792048616c6c6f772e6d7033.mp3",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+				"material_id": 5,
+				"material_path": "https://freepd.cn/api/music/53636f72696e672f416374696f6e20537472696b652e6d7033.mp3",
+				"industry_id": 1,
+				"status": 1
+			},
+			{
+                "material_id": 6,
+                "material_path": "https://freepd.cn/api/music/436f6d6564792f416c6c73204661697220496e204c6f76652e6d7033.mp3",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 401,
+                "material_path": "https://freepd.cn/api/music/4d697363656c6c616e656f75732f417175617269756d2e6d7033.mp3",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 402,
+                "material_path": "https://freepd.cn/api/music/4d697363656c6c616e656f75732f436f6d7079204a617a7a2e6d7033.mp3",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 403,
+                "material_path": "https://freepd.cn/api/music/4d697363656c6c616e656f75732f456e657267697a696e672e6d7033.mp3",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 404,
+                "material_path": "https://freepd.cn/api/music/457069632f5468652052616e67652e6d7033.mp3",
+                "industry_id":0,
+                "status":1
+            },
+			{
+                "material_id": 405,
+                "material_path": "https://freepd.cn/api/music/576f726c642f4e6f72746875722e6d7033.mp3",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 406,
+                "material_path": "https://freepd.cn/api/music/576f726c642f436f6e6e656374696e67205261696e626f77732e6d7033.mp3",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 407,
+                "material_path": "https://freepd.cn/api/music/436f6d6564792f48656c6c6f21204d6120426162792e6d7033.mp3",
+                "industry_id":1,
+                "status":1
+            },
+			{
+                "material_id": 408,
+                "material_path": "https://freepd.cn/api/music/526f6d616e63652f5368696e696e672053746172732e6d7033.mp3",
+                "industry_id":1,
+                "status":1
+            }
+		]
+	},
+	{
+		"org_id": 2,
+		"version": "1.1",
+		"footage_regular": [],
+		"footage_opening": [],
+		"image": [],
+		"bgm": [
+			{
+				"material_id": 390,
+				"material_path": "https://freepd.cn/api/music/486f72726f722f4372656570792048616c6c6f772e6d7033",
+				"industry_id": 0,
+				"status": 1
+			}
+		]
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"org_id": 46,
+		"version": "1.3",
+		"footage_regular": [
+			{
+                "material_id": 320,
+                "material_path": "https://www.pexels.com/zh-cn/download/video/33390321.mp4",
+                "industry_id":3,
+                "status":1
+            }
+		],
+		"footage_opening": [],
+		"image":[
+			{
+				"material_id": 29,
+				"material_path": "https://xiuxiu-pro.meitudata.com/posters/c00836e1d5d8e6c7e52757f9199cfc40.jpg",
+				"industry_id": 0,
+				"status": 1
+			}
+		],
+		"bgm": [
+			{
+				"material_id": 4,
+				"material_path": "https://freepd.cn/api/music/436f6d6564792f416c6c73204661697220496e204c6f76652e6d7033.mp3",
+				"industry_id": 0,
+				"status": 1
+			},
+			{
+				"material_id": 5,
+				"material_path": "https://freepd.cn/api/music/53636f72696e672f416374696f6e20537472696b652e6d7033.mp3",
+				"industry_id": 1,
+				"status": 1
+			}
+		]
+	}
+]

@@ -1,0 +1,12 @@
+[project]
+name = "process-media"
+version = "0.1.0"
+description = "Process media data and interact with vector database"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.136.1",
+    "pydantic>=2.13.4",
+    "pymilvus>=2.6.12",
+    "requests>=2.33.1",
+    "uvicorn>=0.46.0",
+]
