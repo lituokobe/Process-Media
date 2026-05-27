@@ -13,3 +13,5 @@ MATERIAL_EMOJI = {
     "image": "🖼️",
     "bgm": "🎵"
 }
+LOG_KEEPING_HOURS=24
+LOG_PREFIX = "process_media"
